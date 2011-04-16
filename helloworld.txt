@@ -8,4 +8,8 @@ sdssd
 
 Hello !!! This is Rajesh ...............
 
+<<<<<<< HEAD
 Working on new feature
+=======
+Fixing bugs
+>>>>>>> f1213f937c228dde088b2fd0e0b23600fc3071ac
